@@ -22,7 +22,7 @@ Welcome to my GitHub! I am passionate about building modern, high-performance mo
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elzaher&show_icons=true&theme=radium" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaher&layout=compact&theme=radical" />
 </p>
 
 ### 📫 Let's Connect
