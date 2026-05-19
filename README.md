@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Elzaher 👋
 
-### 📱 Flutter & Mobile App Developer | Computer & Communication Engineering Student
+### 📱 Flutter & Mobile App Developer | Computer & Communication Engineering
 
 Welcome to my GitHub! I am passionate about building modern, high-performance mobile applications with clean UI and robust architecture. I love solving problems and turning ideas into impactful digital products.
 
