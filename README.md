@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Ahmed Elzaher, Software Engineer and Flutter Developer" width="100%"/>
+<img src="assets/banner.svg?v=3" alt="Ahmed Elzaher, Software Engineer and Flutter Developer" width="100%"/>
 
 <br/><br/>
 
-<img src="assets/title-about.svg" alt="About Me"/>
+<img src="assets/title-about.svg?v=3" alt="About Me"/>
 
 <br/><br/>
 
@@ -19,23 +19,23 @@ scalable solutions and seamless user experiences.
 
 <br/><br/>
 
-<img src="assets/divider.svg" alt="" width="70%"/>
+<img src="assets/divider.svg?v=3" alt="" width="70%"/>
 
 <br/><br/>
 
-<img src="assets/title-stack.svg" alt="Tech Stack"/>
+<img src="assets/title-stack.svg?v=3" alt="Tech Stack"/>
 
 <br/><br/>
 
-<img src="assets/stack.svg" alt="Tech stack: Flutter, Dart, Clean Architecture, MVVM, BLoC and Cubit, SOLID, RESTful APIs, Dio, GetIt, Firebase, Git" width="860"/>
+<img src="assets/stack.svg?v=3" alt="Tech stack: Flutter, Dart, Clean Architecture, MVVM, BLoC and Cubit, SOLID, RESTful APIs, Dio, GetIt, Firebase, Git" width="860"/>
 
 <br/><br/>
 
-<img src="assets/divider.svg" alt="" width="70%"/>
+<img src="assets/divider.svg?v=3" alt="" width="70%"/>
 
 <br/><br/>
 
-<img src="assets/title-stats.svg" alt="GitHub Stats"/>
+<img src="assets/title-stats.svg?v=3" alt="GitHub Stats"/>
 
 <br/><br/>
 
@@ -45,24 +45,24 @@ scalable solutions and seamless user experiences.
 
 <br/>
 
-<img src="assets/divider.svg" alt="" width="70%"/>
+<img src="assets/divider.svg?v=3" alt="" width="70%"/>
 
 <br/><br/>
 
-<img src="assets/title-contact.svg" alt="Get in Touch"/>
+<img src="assets/title-contact.svg?v=3" alt="Get in Touch"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/ahmed-elzaher13/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://github.com/Ahmed-Elzaher"><img src="assets/btn-github.svg" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&to=zaskizaski13@gmail.com&su=Hello%20Ahmed"><img src="assets/btn-gmail.svg" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/ahmed-elzaher13/"><img src="assets/btn-linkedin.svg?v=3" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Ahmed-Elzaher"><img src="assets/btn-github.svg?v=3" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&to=zaskizaski13@gmail.com&su=Hello%20Ahmed"><img src="assets/btn-gmail.svg?v=3" alt="Gmail"/></a>
 
 <br/><br/>
 
-<img src="assets/divider.svg" alt="" width="70%"/>
+<img src="assets/divider.svg?v=3" alt="" width="70%"/>
 
 <br/><br/>
 
-<img src="assets/title-repos.svg" alt="My Repositories"/>
+<img src="assets/title-repos.svg?v=3" alt="My Repositories"/>
 
 </div>
