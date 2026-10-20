@@ -40,7 +40,9 @@ scalable solutions and seamless user experiences.
 <div style="height: 20px;"></div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elzaher&show_icons=true&hide_rank=true&card_width=450&bg_color=0A0A0B&title_color=C9A24B&text_color=EDEAE3&icon_color=E5383B&border_color=3D3424&border_radius=16" alt="GitHub stats"/>
-&nbsp;&nbsp;
+
+<div style="height: 20px;"></div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaher&layout=compact&card_width=450&hide=php,javascript,typescript,css,python,batchfile,blade,c%2B%2B,cmake,c,swift,kotlin,html,objective-c,ruby,shell&bg_color=0A0A0B&title_color=C9A24B&text_color=EDEAE3&border_color=3D3424&border_radius=16" alt="Top languages"/>
 
 <div style="height: 20px;"></div>
