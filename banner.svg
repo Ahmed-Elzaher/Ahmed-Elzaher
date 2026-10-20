@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Hello, I'm Ahmed! Flutter Developer">
   <style>
-    .bg-dot { fill: #FFD600; opacity: .55; }
+    .dot-y { fill: #FFD600; opacity: .6; }
+    .dot-b { fill: #54C5F8; opacity: .45; }
     .d1 { animation: float1 6s ease-in-out infinite; }
     .d2 { animation: float2 7s ease-in-out infinite; }
     .d3 { animation: float1 8s ease-in-out infinite reverse; }
@@ -8,6 +9,7 @@
     @keyframes float2 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(18px); } }
 
     text { font-family: Poppins, 'Segoe UI', Roboto, Arial, sans-serif; fill: #1f1f1f; text-anchor: middle; }
+    .accent { fill: #02569B; font-weight: 600; }
     .l1 { animation: in1 9s ease-in-out infinite; }
     .l2 { animation: in2 9s ease-in-out infinite; }
     .l3 { animation: in3 9s ease-in-out infinite; }
@@ -37,13 +39,13 @@
 
   <rect width="1200" height="400" fill="#FFEB3D"/>
 
-  <circle class="bg-dot d1" cx="120" cy="90" r="46"/>
-  <circle class="bg-dot d2" cx="1080" cy="310" r="62"/>
-  <circle class="bg-dot d3" cx="1020" cy="70" r="28"/>
-  <circle class="bg-dot d2" cx="170" cy="320" r="30"/>
+  <circle class="dot-y d1" cx="120" cy="90" r="46"/>
+  <circle class="dot-b d2" cx="1080" cy="310" r="62"/>
+  <circle class="dot-y d3" cx="1020" cy="70" r="28"/>
+  <circle class="dot-b d2" cx="170" cy="320" r="30"/>
 
-  <text class="l1" x="600" y="170" font-size="76" font-weight="500">Hello, I'm Ahmed!</text>
+  <text class="l1" x="600" y="170" font-size="76" font-weight="500">Hello, I'm <tspan class="accent">Ahmed</tspan>!</text>
   <text class="l2" x="600" y="224" font-size="28">Software Engineer, Flutter Developer 📱</text>
-  <text class="l3" x="600" y="300" font-size="32">Flutter | Dart | Clean Architecture | BLoC</text>
-  <rect class="bar" x="440" y="338" width="320" height="5" rx="2.5" fill="#1f1f1f"/>
+  <text class="l3" x="600" y="300" font-size="32">Flutter <tspan class="accent">|</tspan> Dart <tspan class="accent">|</tspan> Clean Architecture <tspan class="accent">|</tspan> BLoC</text>
+  <rect class="bar" x="440" y="338" width="320" height="5" rx="2.5" fill="#02569B"/>
 </svg>
