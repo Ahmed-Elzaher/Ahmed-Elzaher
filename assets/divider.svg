@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 24" width="800" height="24" role="presentation">
+<defs><linearGradient id="l" x1="0" x2="1">
+  <stop offset="0" stop-color="#C9A24B" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#C9A24B" stop-opacity=".9"/>
+  <stop offset="1" stop-color="#C9A24B" stop-opacity="0"/>
+</linearGradient></defs>
+<rect x="0" y="11.5" width="800" height="1" fill="url(#l)"/>
+<rect x="395" y="7" width="10" height="10" fill="#E5383B" transform="rotate(45 400 12)"/>
+</svg>

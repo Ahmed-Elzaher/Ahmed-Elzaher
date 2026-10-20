@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Ahmed Elzaher, Software Engineer and Flutter Developer">
+<defs>
+  <radialGradient id="gr"><stop offset="0" stop-color="#B3202B" stop-opacity=".55"/><stop offset="1" stop-color="#B3202B" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gg"><stop offset="0" stop-color="#C9A24B" stop-opacity=".38"/><stop offset="1" stop-color="#C9A24B" stop-opacity="0"/></radialGradient>
+  <linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#E3C16F"/><stop offset="1" stop-color="#A8802F"/></linearGradient>
+  <linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#E5383B"/><stop offset="1" stop-color="#C9A24B"/></linearGradient>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#ffffff" fill-opacity=".07"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="380" rx="22"/></clipPath>
+</defs>
+<style>
+
+  text { font-family: Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif; }
+  .f { opacity: 0; animation: up .9s cubic-bezier(.2,.7,.2,1) forwards; }
+  @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+  @media (prefers-reduced-motion: reduce) { .f { opacity: 1; animation: none; } }
+
+  .g1 { animation: d1 16s ease-in-out infinite alternate; }
+  .g2 { animation: d2 18s ease-in-out infinite alternate; }
+  @keyframes d1 { from { transform: translate(0,0); } to { transform: translate(70px,34px); } }
+  @keyframes d2 { from { transform: translate(0,0); } to { transform: translate(-60px,-26px); } }
+  .dot { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .35; transform: scale(1.8); } }
+  .line { transform-box: fill-box; transform-origin: center; animation: grow 1s .15s ease-out both; }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  @media (prefers-reduced-motion: reduce) { .g1,.g2,.dot,.line { animation: none; } }
+</style>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="380" fill="#0A0A0B"/>
+  <rect width="1200" height="380" fill="url(#dots)"/>
+  <circle class="g1" cx="150" cy="40" r="360" fill="url(#gr)"/>
+  <circle class="g2" cx="1070" cy="360" r="340" fill="url(#gg)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="379" rx="22" fill="none" stroke="#C9A24B" stroke-opacity=".28"/>
+
+<g class="f" style="animation-delay:.05s">
+  <rect x="930" y="32" width="232" height="32" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#C9A24B" stroke-opacity=".4"/>
+  <circle cx="950" cy="48" r="4" fill="#C9A24B" class="dot"/>
+  <text x="1054.0" y="53" text-anchor="middle" font-size="13" letter-spacing=".4" fill="#EDEAE3">Open for opportunities</text>
+</g>
+
+<rect class="line" x="572" y="92" width="56" height="3" rx="1.5" fill="url(#ac)"/>
+<text class="f" style="animation-delay:.15s" x="600" y="132" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="6" fill="#C9A24B">SOFTWARE ENGINEER  ·  FLUTTER DEVELOPER</text>
+<text class="f" style="animation-delay:.3s" x="600" y="214" text-anchor="middle" font-size="78" font-weight="700" letter-spacing="-1.5" fill="#EDEAE3">Ahmed <tspan fill="url(#nm)">Elzaher</tspan></text>
+<text class="f" style="animation-delay:.55s" x="600" y="258" text-anchor="middle" font-size="20" fill="#A9A69E">Crafting fast, elegant and scalable mobile experiences.</text>
+<g class="f" style="animation-delay:0.85s"><rect x="290.5" y="292" width="115" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#C9A24B" stroke-opacity=".5"/><circle cx="308.5" cy="311" r="3" fill="#E5383B"/><text x="322.5" y="316" font-size="15" letter-spacing=".3" fill="#EDEAE3">Flutter</text></g><g class="f" style="animation-delay:0.94s"><rect x="419.5" y="292" width="88" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#C9A24B" stroke-opacity=".5"/><circle cx="437.5" cy="311" r="3" fill="#E5383B"/><text x="451.5" y="316" font-size="15" letter-spacing=".3" fill="#EDEAE3">Dart</text></g><g class="f" style="animation-delay:1.03s"><rect x="521.5" y="292" width="214" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#C9A24B" stroke-opacity=".5"/><circle cx="539.5" cy="311" r="3" fill="#E5383B"/><text x="553.5" y="316" font-size="15" letter-spacing=".3" fill="#EDEAE3">Clean Architecture</text></g><g class="f" style="animation-delay:1.12s"><rect x="749.5" y="292" width="160" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#C9A24B" stroke-opacity=".5"/><circle cx="767.5" cy="311" r="3" fill="#E5383B"/><text x="781.5" y="316" font-size="15" letter-spacing=".3" fill="#EDEAE3">BLoC / Cubit</text></g>
+</svg>
