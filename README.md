@@ -4,7 +4,7 @@
 
 <p align="center"><b>🟢 Open for Opportunities</b></p>
 
-<h2 align="center">👨‍💻 Whoami</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
   <samp>A Computer &amp; Information Engineering graduate (Mansoura University, 2026) and Mobile Application Developer specializing in building high-performance, cross-platform applications using Flutter and Dart. Adept at implementing Clean Architecture and robust state management to deliver efficient, scalable solutions and seamless user experiences.</samp>
   <br><br>
