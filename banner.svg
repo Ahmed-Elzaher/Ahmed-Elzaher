@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Hello, I'm Ahmed! Flutter Developer">
+  <rect width="1200" height="400" fill="#FFEB3D"/>
+  <g font-family="Poppins, 'Segoe UI', Roboto, Arial, sans-serif" fill="#1f1f1f" text-anchor="middle">
+    <text x="600" y="170" font-size="76" font-weight="500">Hello, I'm Ahmed!</text>
+    <text x="600" y="224" font-size="28">Software Engineer, Flutter Developer 📱</text>
+    <text x="600" y="300" font-size="32">Flutter <tspan fill="#7a0019">|</tspan> Dart <tspan fill="#7a0019">|</tspan> Clean Architecture <tspan fill="#7a0019">|</tspan> BLoC</text>
+  </g>
+</svg>
