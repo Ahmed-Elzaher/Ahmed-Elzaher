@@ -1,31 +1,37 @@
-# Hi there, I'm Ahmed Elzaher 👋
+<h1 align="center"> 👋 Hi, I'm Ahmed Elzaher</h1>
+<div align="center">
+  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+</div>
+<p align="center"> (Open for Opportunities)</p>
 
-### 📱 Flutter & Mobile App Developer | Computer & Communication Engineering
-
-Welcome to my GitHub! I am passionate about building modern, high-performance mobile applications with clean UI and robust architecture. I love solving problems and turning ideas into impactful digital products.
-
-### 👨‍💻 About Me
-
-* 🎓 Final-year Computer and Communication Engineering student.
-* 🚀 Building **Engipedia**, a comprehensive digital platform designed to centralize study materials for CCE students.
-* 💡 Highly focused on **Clean Architecture**, **MVVM**, State Management, and seamless API integrations.
-* 🌱 Continuously expanding my skill set in **Data Science, Machine Learning (AI)**, and integrating AI models (like Gemini API) into mobile apps.
-
-### 🛠️ Tech Stack & Tools
-
-* **Languages:** Dart, C
-* **Framework:** Flutter
-* **Architecture & Patterns:** MVVM, Clean Architecture
-* **Tools & Version Control:** Git, GitHub, VS Code
-* **Other Interests:** AI Integration, Data Structures, Problem Solving
-
-### 📈 GitHub Stats
-
+<h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Elzaher&theme=radical" />
+  <samp>A Communications and Computers Engineering graduate and Mobile Application Developer specializing in building high-performance, cross-platform applications using Flutter and Dart. Adept at implementing Clean Architecture and robust state management to deliver efficient, scalable solutions and seamless user experiences.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Elzaher" alt="Profile Views" />
 </p>
 
-### 📫 Let's Connect
+<hr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-elzaher13)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaskizaski13@gmail.com)
+<h2 align="center"> 🔭 Tools & Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BLOC-%232C2D30.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+<p align="center">Flutter, Dart, Clean Architecture, MVVM, BLOC/Cubit, RESTful APIs, Dio, Git, GitHub, Firebase, OOP, SOLID Principles.</p>
+
+<hr>
+
+<h2 align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/ahmed-elzaher13/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://github.com/Ahmed-Elzaher"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:zaskizaski13@gmail.com?subject=Hello%20Ahmed,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
