@@ -35,9 +35,9 @@
 
 <h2 align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/ahmed-elzaher13/"><img src="https://img.shields.io/badge/-LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=FFEB3D" /></a>&nbsp;&nbsp;
-  <a target="_blank" href="https://github.com/Ahmed-Elzaher"><img src="https://img.shields.io/badge/-GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=FFEB3D" /></a>&nbsp;&nbsp;
-  <a href="mailto:zaskizaski13@gmail.com?subject=Hello%20Ahmed,%20From%20Github"><img src="https://img.shields.io/badge/-Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=FFEB3D" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/ahmed-elzaher13/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a target="_blank" href="https://github.com/Ahmed-Elzaher"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/zaskizaski13%40gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email: zaskizaski13@gmail.com" />
 </p>
 
 <hr>
