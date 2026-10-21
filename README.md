@@ -10,7 +10,7 @@ with a focus on clean, scalable code and a smooth user experience.
 
 <h2>🛠️ Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&perline=5" alt="Flutter, Dart, Firebase, Git, GitHub" width="420"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&perline=5" alt="Flutter, Dart, Firebase, Git, GitHub" width="330"/>
 
 | Area | Technologies |
 |:---:|:---:|
@@ -20,8 +20,8 @@ with a focus on clean, scalable code and a smooth user experience.
 
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elzaher&show_icons=true&hide_rank=true&hide=stars,issues,contribs&card_width=420" alt="GitHub stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaher&layout=compact&card_width=420&hide=php,javascript,typescript,css,python,batchfile,blade,c%2B%2B,cmake,c,swift,kotlin,html,objective-c,ruby,shell" alt="Top languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elzaher&show_icons=true&hide_rank=true&card_width=420" alt="GitHub stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaher&layout=donut&card_width=420&hide=php,javascript,typescript,css,python,batchfile,blade,c%2B%2B,cmake,c,swift,kotlin,html,objective-c,ruby,shell" alt="Top languages" width="49%"/>
 
 <h2>📫 Get in Touch</h2>
 
