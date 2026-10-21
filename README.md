@@ -5,29 +5,23 @@
 <h2>👨‍💻 About Me</h2>
 
 Computer & Information Engineering graduate from **Mansoura University** (June 2026, Very Good).<br/>
-Mobile Application Developer specializing in high-performance, cross-platform apps with **Flutter** and **Dart**.
-
-🧱 Clean Architecture with clear separation between data, domain and presentation<br/>
-🔄 Predictable state management using BLoC / Cubit<br/>
-🌐 REST API integration with Dio, and dependency injection with GetIt<br/>
-🔥 Firebase services integration<br/>
-🚀 Focused on building efficient, scalable apps with a smooth user experience
+Mobile Application Developer building high-performance, cross-platform apps with **Flutter** and **Dart**,<br/>
+with a focus on clean, scalable code and a smooth user experience.
 
 <h2>🛠️ Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&perline=5" alt="Flutter, Dart, Firebase, Git, GitHub"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&perline=5" alt="Flutter, Dart, Firebase, Git, GitHub" width="420"/>
 
-| | |
-|---|---|
-| 🏛️ **Architecture** | Clean Architecture, MVVM, SOLID Principles |
+| Area | Technologies |
+|:---:|:---:|
+| 🏛️ **Architecture** | Clean Architecture · MVVM · SOLID |
 | 🔄 **State Management** | BLoC / Cubit |
-| 🌐 **Networking & DI** | RESTful APIs, Dio, GetIt |
-| ☁️ **Backend Services** | Firebase |
+| 🌐 **Networking & DI** | RESTful APIs · Dio · GetIt |
 
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elzaher&show_icons=true&hide_rank=true" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaher&layout=compact&hide=php,javascript,typescript,css,python,batchfile,blade,c%2B%2B,cmake,c,swift,kotlin,html,objective-c,ruby,shell" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elzaher&show_icons=true&hide_rank=true&hide=stars,issues,contribs&card_width=420" alt="GitHub stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaher&layout=compact&card_width=420&hide=php,javascript,typescript,css,python,batchfile,blade,c%2B%2B,cmake,c,swift,kotlin,html,objective-c,ruby,shell" alt="Top languages" width="49%"/>
 
 <h2>📫 Get in Touch</h2>
 
