@@ -21,7 +21,7 @@ with a focus on clean, scalable code and a smooth user experience.
 <h2>📊 GitHub Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elzaher&show_icons=true&hide_rank=true&card_width=420" alt="GitHub stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaher&layout=donut&card_width=420&hide=php,javascript,typescript,css,python,batchfile,blade,c%2B%2B,cmake,c,swift,kotlin,html,objective-c,ruby,shell" alt="Top languages" width="49%"/>
+<img src="assets/langs.svg" alt="Most used language: Dart" width="49%"/>
 
 <h2>📫 Get in Touch</h2>
 
