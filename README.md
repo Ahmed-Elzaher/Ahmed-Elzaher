@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Ahmed Elzaher, Software Engineer and Flutter Developer" width="100%"/>
+<img src="assets/banner.svg?v=2" alt="Ahmed Elzaher, Software Engineer and Flutter Developer" width="100%"/>
 
 <h2>👨‍💻 About Me</h2>
 
@@ -10,12 +10,12 @@ with a focus on clean, scalable code and a smooth user experience.
 
 <h2>🛠️ Tech Stack</h2>
 
-<img src="assets/stack-icons.svg" alt="Tech stack: Flutter, Dart, Firebase, Git, GitHub, Clean Architecture, MVVM, SOLID, BLoC / Cubit, RESTful APIs, Dio, GetIt" width="560"/>
+<img src="assets/stack-icons.svg?v=2" alt="Tech stack: Flutter, Dart, Firebase, Git, GitHub, Clean Architecture, MVVM, SOLID, BLoC / Cubit, RESTful APIs, Dio, GetIt" width="560"/>
 
 <h2>📊 GitHub Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elzaher&show_icons=true&hide_rank=true&card_width=420" alt="GitHub stats" width="49%"/>
-<img src="assets/langs.svg" alt="Most used language: Dart" width="49%"/>
+<img src="assets/langs.svg?v=2" alt="Most used language: Dart" width="49%"/>
 
 <h2>📫 Get in Touch</h2>
 
