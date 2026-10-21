@@ -10,7 +10,7 @@ with a focus on clean, scalable code and a smooth user experience.
 
 <h2>🛠️ Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&perline=5" alt="Flutter, Dart, Firebase, Git, GitHub" width="330"/>
+<img src="assets/stack-icons.svg" alt="Flutter, Dart, Firebase, Git, GitHub" width="400"/>
 
 | Area | Technologies |
 |:---:|:---:|
