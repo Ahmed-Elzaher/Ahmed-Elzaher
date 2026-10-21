@@ -25,9 +25,9 @@ with a focus on clean, scalable code and a smooth user experience.
 
 <h2>📫 Get in Touch</h2>
 
-<a href="https://www.linkedin.com/in/ahmed-elzaher13/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Ahmed-Elzaher"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://mail.google.com/mail/?view=cm&to=zaskizaski13@gmail.com&su=Hello%20Ahmed"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/ahmed-elzaher13/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Ahmed-Elzaher"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&to=zaskizaski13@gmail.com&su=Hello%20Ahmed"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <h2>💻 Repositories</h2>
 
