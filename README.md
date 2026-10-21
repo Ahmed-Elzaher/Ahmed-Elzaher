@@ -4,8 +4,8 @@
 
 <h2>👨‍💻 About Me</h2>
 
-Computer & Information Engineering graduate from **Mansoura University** (June 2026, Very Good).<br/>
-Mobile Application Developer building high-performance, cross-platform apps with **Flutter** and **Dart**,<br/>
+Communication and Computer Engineering graduate from **Mansoura University** (June 2026, Very Good).<br/>
+Flutter Developer building high-performance, cross-platform apps with **Flutter** and **Dart**,<br/>
 with a focus on clean, scalable code and a smooth user experience.
 
 <h2>🛠️ Tech Stack</h2>
