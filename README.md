@@ -2,27 +2,43 @@
   <img src="assets/banner.svg" alt="Ahmed Elzaher, Software Engineer and Flutter Developer" width="100%"/>
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
-A Computer & Information Engineering graduate (Mansoura University, 2026) and Mobile Application Developer specializing in building high-performance, cross-platform applications using Flutter and Dart. I implement Clean Architecture and robust state management to deliver efficient, scalable solutions and seamless user experiences.
+Computer & Information Engineering graduate from **Mansoura University** (June 2026, Very Good).
+I'm a Mobile Application Developer specializing in high-performance, cross-platform apps with **Flutter** and **Dart**.
 
-## Tech Stack
+- 🧱 Clean Architecture with clear separation between data, domain and presentation
+- 🔄 Predictable state management using BLoC / Cubit
+- 🌐 REST API integration with Dio, and dependency injection with GetIt
+- 🔥 Firebase services integration
+- 🚀 Focused on building efficient, scalable apps with a smooth user experience
 
-- **Framework & Language:** Flutter, Dart
-- **Architecture & State Management:** Clean Architecture, MVVM, BLoC / Cubit, SOLID Principles
-- **Data & Tools:** RESTful APIs, Dio, GetIt, Firebase, Git
+## 🛠️ Tech Stack
 
-## GitHub Stats
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&perline=5" alt="Flutter, Dart, Firebase, Git, GitHub"/>
+</p>
+
+| | |
+|---|---|
+| 🏛️ **Architecture** | Clean Architecture, MVVM, SOLID Principles |
+| 🔄 **State Management** | BLoC / Cubit |
+| 🌐 **Networking & DI** | RESTful APIs, Dio, GetIt |
+| ☁️ **Backend Services** | Firebase |
+
+## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elzaher&show_icons=true&hide_rank=true" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaher&layout=compact&hide=php,javascript,typescript,css,python,batchfile,blade,c%2B%2B,cmake,c,swift,kotlin,html,objective-c,ruby,shell" alt="Top languages"/>
 </p>
 
-## Get in Touch
+## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/ahmed-elzaher13/)
-- [GitHub](https://github.com/Ahmed-Elzaher)
-- [Email](https://mail.google.com/mail/?view=cm&to=zaskizaski13@gmail.com&su=Hello%20Ahmed)
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-elzaher13/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Ahmed-Elzaher"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=zaskizaski13@gmail.com&su=Hello%20Ahmed"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
-## Repositories
+## 💻 Repositories
