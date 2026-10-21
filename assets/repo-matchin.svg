@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 195" width="420" height="195" role="img" aria-label="MatchIn (SkillMatch) - Flutter repository">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #2f80ed; }
+    .desc { font-size: 13px; fill: #434d58; }
+    .tag { font-size: 11.5px; font-weight: 600; fill: #434d58; }
+    .meta { font-size: 12px; fill: #6b7683; }
+  </style>
+  <rect x=".5" y=".5" width="419" height="194" rx="4.5" fill="#fffefe" stroke="#e4e2e2"/>
+  <text x="25" y="35" class="title">MatchIn (SkillMatch)</text>
+  <text x="25" y="62" class="desc">AI-powered job discovery and career acceleration app.</text>
+  <text x="25" y="81" class="desc">Job matching, CV extraction, career roadmap, AI mentor.</text>
+  <rect x="25" y="104" width="66" height="22" rx="11" fill="#eef2f7"/><text x="58.0" y="119" class="tag" text-anchor="middle">Flutter</text>
+  <rect x="99" y="104" width="137" height="22" rx="11" fill="#eef2f7"/><text x="167.5" y="119" class="tag" text-anchor="middle">Clean Architecture</text>
+  <rect x="244" y="104" width="47" height="22" rx="11" fill="#eef2f7"/><text x="267.5" y="119" class="tag" text-anchor="middle">BLoC</text>
+  <rect x="299" y="104" width="73" height="22" rx="11" fill="#eef2f7"/><text x="335.5" y="119" class="tag" text-anchor="middle">Firebase</text>
+  <rect x="25" y="146" width="370" height="1" fill="#e4e2e2"/>
+  <circle cx="30" cy="169" r="5" fill="#00B4AB"/>
+  <text x="42" y="173" class="meta">Dart</text>
+  <text x="395" y="173" class="meta" text-anchor="end">Team-2-Skill-Project / Flutter</text>
+</svg>

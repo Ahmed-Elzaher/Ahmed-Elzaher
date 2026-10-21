@@ -25,4 +25,6 @@ with a focus on clean, scalable code and a smooth user experience.
 
 <h2>💻 Repositories</h2>
 
+<a href="https://github.com/Team-2-Skill-Project/Flutter"><img src="assets/repo-matchin.svg" alt="MatchIn (SkillMatch) - Team-2-Skill-Project/Flutter" width="49%"/></a>
+
 </div>
