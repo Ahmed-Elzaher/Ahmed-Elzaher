@@ -10,13 +10,7 @@ with a focus on clean, scalable code and a smooth user experience.
 
 <h2>🛠️ Tech Stack</h2>
 
-<img src="assets/stack-icons.svg" alt="Flutter, Dart, Firebase, Git, GitHub" width="400"/>
-
-| Area | Technologies |
-|:---:|:---:|
-| 🏛️ **Architecture** | Clean Architecture · MVVM · SOLID |
-| 🔄 **State Management** | BLoC / Cubit |
-| 🌐 **Networking & DI** | RESTful APIs · Dio · GetIt |
+<img src="assets/stack-icons.svg" alt="Tech stack: Flutter, Dart, Firebase, Git, GitHub, Clean Architecture, MVVM, SOLID, BLoC / Cubit, RESTful APIs, Dio, GetIt" width="560"/>
 
 <h2>📊 GitHub Stats</h2>
 
