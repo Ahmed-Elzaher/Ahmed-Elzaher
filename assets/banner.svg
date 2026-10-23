@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Ahmed Elzaher, Software Engineer and Flutter Developer">
 <defs>
-  <radialGradient id="gr"><stop offset="0" stop-color="#B3202B" stop-opacity=".55"/><stop offset="1" stop-color="#B3202B" stop-opacity="0"/></radialGradient>
-  <radialGradient id="gg"><stop offset="0" stop-color="#C9A24B" stop-opacity=".38"/><stop offset="1" stop-color="#C9A24B" stop-opacity="0"/></radialGradient>
-  <linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#E3C16F"/><stop offset="1" stop-color="#A8802F"/></linearGradient>
-  <linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#E5383B"/><stop offset="1" stop-color="#C9A24B"/></linearGradient>
+  <radialGradient id="gr"><stop offset="0" stop-color="#2d68ff" stop-opacity=".55"/><stop offset="1" stop-color="#2d68ff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gg"><stop offset="0" stop-color="#4f83ff" stop-opacity=".38"/><stop offset="1" stop-color="#4f83ff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#4f83ff"/><stop offset="1" stop-color="#2d68ff"/></linearGradient>
+  <linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#2d68ff"/><stop offset="1" stop-color="#4f83ff"/></linearGradient>
   <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#ffffff" fill-opacity=".07"/></pattern>
   <clipPath id="clip"><rect width="1200" height="380" rx="22"/></clipPath>
 </defs>
 <style>
 
-  text { font-family: Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif; }
+  text { font-family: 'Plus Jakarta Sans',Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif; }
   .f { opacity: 0; animation: up .9s cubic-bezier(.2,.7,.2,1) forwards; }
   @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
   @media (prefers-reduced-motion: reduce) { .f { opacity: 1; animation: none; } }
@@ -25,22 +25,22 @@
   @media (prefers-reduced-motion: reduce) { .g1,.g2,.dot,.line { animation: none; } }
 </style>
 <g clip-path="url(#clip)">
-  <rect width="1200" height="380" fill="#0A0A0B"/>
+  <rect width="1200" height="380" fill="#000000"/>
   <rect width="1200" height="380" fill="url(#dots)"/>
   <circle class="g1" cx="150" cy="40" r="360" fill="url(#gr)"/>
   <circle class="g2" cx="1070" cy="360" r="340" fill="url(#gg)"/>
 </g>
-<rect x=".5" y=".5" width="1199" height="379" rx="22" fill="none" stroke="#C9A24B" stroke-opacity=".28"/>
+<rect x=".5" y=".5" width="1199" height="379" rx="22" fill="none" stroke="#4f83ff" stroke-opacity=".28"/>
 
 <g class="f" style="animation-delay:.05s">
-  <rect x="930" y="32" width="232" height="32" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#C9A24B" stroke-opacity=".4"/>
-  <circle cx="950" cy="48" r="4" fill="#C9A24B" class="dot"/>
-  <text x="1054.0" y="53" text-anchor="middle" font-size="13" letter-spacing=".4" fill="#EDEAE3">Open for opportunities</text>
+  <rect x="930" y="32" width="232" height="32" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#4f83ff" stroke-opacity=".4"/>
+  <circle cx="950" cy="48" r="4" fill="#4f83ff" class="dot"/>
+  <text x="1054.0" y="53" text-anchor="middle" font-size="13" letter-spacing=".4" fill="#f4f4f5">Open for opportunities</text>
 </g>
 
 <rect class="line" x="572" y="92" width="56" height="3" rx="1.5" fill="url(#ac)"/>
-<text class="f" style="animation-delay:.15s" x="600" y="132" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="6" fill="#C9A24B">SOFTWARE ENGINEER  ·  FLUTTER DEVELOPER</text>
-<text class="f" style="animation-delay:.3s" x="600" y="214" text-anchor="middle" font-size="78" font-weight="700" letter-spacing="-1.5" fill="#EDEAE3">Ahmed <tspan fill="url(#nm)">Elzaher</tspan></text>
-<text class="f" style="animation-delay:.55s" x="600" y="258" text-anchor="middle" font-size="20" fill="#A9A69E">Crafting fast, elegant and scalable mobile experiences.</text>
-<g class="f" style="animation-delay:0.85s"><rect x="253.5" y="292" width="129" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#C9A24B" stroke-opacity=".5"/><svg x="269.5" y="302.0" width="19" height="19" viewBox="0 0 24 24"><path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z" fill="#54C5F8"/></svg><text x="297.5" y="316" font-size="15" letter-spacing=".3" fill="#EDEAE3">Flutter</text></g><g class="f" style="animation-delay:0.94s"><rect x="402.5" y="292" width="102" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#C9A24B" stroke-opacity=".5"/><svg x="418.5" y="302.0" width="19" height="19" viewBox="0 0 24 24"><path d="M4.105 4.105S9.158 1.58 11.684.316a3.079 3.079 0 0 1 1.481-.315c.766.047 1.677.788 1.677.788L24 9.948v9.789h-4.263V24H9.789l-9-9C.303 14.5 0 13.795 0 13.105c0-.319.18-.818.316-1.105l3.789-7.895zm.679.679v11.787c.002.543.021 1.024.498 1.508L10.204 23h8.533v-4.263L4.784 4.784zm12.055-.678c-.899-.896-1.809-1.78-2.74-2.643-.302-.267-.567-.468-1.07-.462-.37.014-.87.195-.87.195L6.341 4.105l10.498.001z" fill="#1A8FDB"/></svg><text x="446.5" y="316" font-size="15" letter-spacing=".3" fill="#EDEAE3">Dart</text></g><g class="f" style="animation-delay:1.03s"><rect x="524.5" y="292" width="228" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#C9A24B" stroke-opacity=".5"/><svg x="540.5" y="302.0" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#E3C16F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 3 8l9 5 9-5-9-5Z"/><path d="m3 12 9 5 9-5"/><path d="m3 16 9 5 9-5"/></svg><text x="568.5" y="316" font-size="15" letter-spacing=".3" fill="#EDEAE3">Clean Architecture</text></g><g class="f" style="animation-delay:1.12s"><rect x="772.5" y="292" width="174" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#C9A24B" stroke-opacity=".5"/><svg x="788.5" y="302.0" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#E3C16F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 2l4 4-4 4"/><path d="M3 11v-1a4 4 0 0 1 4-4h14"/><path d="m7 22-4-4 4-4"/><path d="M21 13v1a4 4 0 0 1-4 4H3"/></svg><text x="816.5" y="316" font-size="15" letter-spacing=".3" fill="#EDEAE3">BLoC / Cubit</text></g>
+<text class="f" style="animation-delay:.15s" x="600" y="132" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="6" fill="#4f83ff">SOFTWARE ENGINEER  ·  FLUTTER DEVELOPER</text>
+<text class="f" style="animation-delay:.3s" x="600" y="214" text-anchor="middle" font-size="78" font-weight="700" letter-spacing="-1.5" fill="#f4f4f5">Ahmed <tspan fill="url(#nm)">Elzaher</tspan></text>
+<text class="f" style="animation-delay:.55s" x="600" y="258" text-anchor="middle" font-size="20" fill="#a1a1aa">Crafting fast, elegant and scalable mobile experiences.</text>
+<g class="f" style="animation-delay:0.85s"><rect x="253.5" y="292" width="129" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#4f83ff" stroke-opacity=".5"/><svg x="269.5" y="302.0" width="19" height="19" viewBox="0 0 24 24"><path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z" fill="#54C5F8"/></svg><text x="297.5" y="316" font-size="15" letter-spacing=".3" fill="#f4f4f5">Flutter</text></g><g class="f" style="animation-delay:0.94s"><rect x="402.5" y="292" width="102" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#4f83ff" stroke-opacity=".5"/><svg x="418.5" y="302.0" width="19" height="19" viewBox="0 0 24 24"><path d="M4.105 4.105S9.158 1.58 11.684.316a3.079 3.079 0 0 1 1.481-.315c.766.047 1.677.788 1.677.788L24 9.948v9.789h-4.263V24H9.789l-9-9C.303 14.5 0 13.795 0 13.105c0-.319.18-.818.316-1.105l3.789-7.895zm.679.679v11.787c.002.543.021 1.024.498 1.508L10.204 23h8.533v-4.263L4.784 4.784zm12.055-.678c-.899-.896-1.809-1.78-2.74-2.643-.302-.267-.567-.468-1.07-.462-.37.014-.87.195-.87.195L6.341 4.105l10.498.001z" fill="#1A8FDB"/></svg><text x="446.5" y="316" font-size="15" letter-spacing=".3" fill="#f4f4f5">Dart</text></g><g class="f" style="animation-delay:1.03s"><rect x="524.5" y="292" width="228" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#4f83ff" stroke-opacity=".5"/><svg x="540.5" y="302.0" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#4f83ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 3 8l9 5 9-5-9-5Z"/><path d="m3 12 9 5 9-5"/><path d="m3 16 9 5 9-5"/></svg><text x="568.5" y="316" font-size="15" letter-spacing=".3" fill="#f4f4f5">Clean Architecture</text></g><g class="f" style="animation-delay:1.12s"><rect x="772.5" y="292" width="174" height="38" rx="19.0" fill="#ffffff" fill-opacity=".04" stroke="#4f83ff" stroke-opacity=".5"/><svg x="788.5" y="302.0" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#4f83ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 2l4 4-4 4"/><path d="M3 11v-1a4 4 0 0 1 4-4h14"/><path d="m7 22-4-4 4-4"/><path d="M21 13v1a4 4 0 0 1-4 4H3"/></svg><text x="816.5" y="316" font-size="15" letter-spacing=".3" fill="#f4f4f5">BLoC / Cubit</text></g>
 </svg>

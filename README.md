@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg?v=2" alt="Ahmed Elzaher, Software Engineer and Flutter Developer" width="100%"/>
+<img src="assets/banner.svg?v=3" alt="Ahmed Elzaher, Software Engineer and Flutter Developer" width="100%"/>
 
 <h2>👨‍💻 About Me</h2>
 
